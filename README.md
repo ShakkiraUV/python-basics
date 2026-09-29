@@ -1,9 +1,10 @@
-# python-programming
+# Python Programming
 
 This is a repository for Basic Python programming
 
-it includes
+It includes
  * Introduction to python
  * Vriables in python
  * Data types
+ * Collections in python
  
